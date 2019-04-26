@@ -1,0 +1,13 @@
+C:\Users\Alvina\source\repos\MenuApp\MenuApp\bin\Debug\MenuApp.exe.config
+C:\Users\Alvina\source\repos\MenuApp\MenuApp\bin\Debug\MenuApp.exe
+C:\Users\Alvina\source\repos\MenuApp\MenuApp\bin\Debug\MenuApp.pdb
+C:\Users\Alvina\source\repos\MenuApp\MenuApp\obj\Debug\MenuApp.csprojAssemblyReference.cache
+C:\Users\Alvina\source\repos\MenuApp\MenuApp\obj\Debug\MenuApp.Form1.resources
+C:\Users\Alvina\source\repos\MenuApp\MenuApp\obj\Debug\MenuApp.HomeUserControl.resources
+C:\Users\Alvina\source\repos\MenuApp\MenuApp\obj\Debug\MenuApp.MenuUserControl.resources
+C:\Users\Alvina\source\repos\MenuApp\MenuApp\obj\Debug\MenuApp.Properties.Resources.resources
+C:\Users\Alvina\source\repos\MenuApp\MenuApp\obj\Debug\MenuApp.csproj.GenerateResource.cache
+C:\Users\Alvina\source\repos\MenuApp\MenuApp\obj\Debug\MenuApp.csproj.CoreCompileInputs.cache
+C:\Users\Alvina\source\repos\MenuApp\MenuApp\obj\Debug\MenuApp.exe
+C:\Users\Alvina\source\repos\MenuApp\MenuApp\obj\Debug\MenuApp.pdb
+C:\Users\Alvina\source\repos\MenuApp\MenuApp\obj\Debug\MenuApp.Kabelo.resources
